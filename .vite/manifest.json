@@ -1,0 +1,127 @@
+{
+  "_app-main-!~{003}~.js": {
+    "file": "assets/app-main-Dg8V7C5u.css",
+    "src": "_app-main-!~{003}~.js"
+  },
+  "_app-main-DYH-fnor.js": {
+    "file": "assets/app-main-DYH-fnor.js",
+    "name": "app-main",
+    "imports": [
+      "_games-data-Nkav3eHL.js",
+      "_vendor-react-QXrNKzY_.js",
+      "_vendor-DJ1mgiBU.js"
+    ],
+    "dynamicImports": [
+      "_vendor-DJ1mgiBU.js",
+      "_vendor-DJ1mgiBU.js",
+      "_vendor-DJ1mgiBU.js",
+      "src/games/BlindTest.tsx",
+      "src/games/TerrainDeJeu.tsx",
+      "_feature-games-CWsL2j2a.js",
+      "_feature-games-CWsL2j2a.js",
+      "_feature-games-CWsL2j2a.js",
+      "_feature-games-CWsL2j2a.js",
+      "_feature-games-CWsL2j2a.js",
+      "_feature-games-CWsL2j2a.js",
+      "_feature-games-CWsL2j2a.js",
+      "_feature-games-CWsL2j2a.js",
+      "_debug-cyh4Z7ei.js",
+      "src/data/pools.ts",
+      "_debug-cyh4Z7ei.js",
+      "_debug-cyh4Z7ei.js",
+      "_vendor-DJ1mgiBU.js"
+    ],
+    "css": [
+      "assets/app-main-Dg8V7C5u.css"
+    ]
+  },
+  "_debug-cyh4Z7ei.js": {
+    "file": "assets/debug-cyh4Z7ei.js",
+    "name": "debug",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-react-QXrNKzY_.js",
+      "src/data/pools.ts",
+      "_app-main-DYH-fnor.js",
+      "_games-data-Nkav3eHL.js"
+    ]
+  },
+  "_feature-games-CWsL2j2a.js": {
+    "file": "assets/feature-games-CWsL2j2a.js",
+    "name": "feature-games",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-react-QXrNKzY_.js",
+      "_app-main-DYH-fnor.js"
+    ]
+  },
+  "_games-data-Nkav3eHL.js": {
+    "file": "assets/games-data-Nkav3eHL.js",
+    "name": "games-data",
+    "imports": [
+      "_i18n-BWRwV3v0.js"
+    ]
+  },
+  "_i18n-BWRwV3v0.js": {
+    "file": "assets/i18n-BWRwV3v0.js",
+    "name": "i18n",
+    "imports": [
+      "_vendor-react-QXrNKzY_.js"
+    ]
+  },
+  "_vendor-DJ1mgiBU.js": {
+    "file": "assets/vendor-DJ1mgiBU.js",
+    "name": "vendor",
+    "isDynamicEntry": true
+  },
+  "_vendor-react-QXrNKzY_.js": {
+    "file": "assets/vendor-react-QXrNKzY_.js",
+    "name": "vendor-react"
+  },
+  "index.html": {
+    "file": "assets/index-XkSK0rYj.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_app-main-DYH-fnor.js",
+      "_games-data-Nkav3eHL.js",
+      "_i18n-BWRwV3v0.js",
+      "_vendor-react-QXrNKzY_.js",
+      "_vendor-DJ1mgiBU.js"
+    ]
+  },
+  "src/data/pools.ts": {
+    "file": "assets/pools-data-Dz64lIMx.js",
+    "name": "pools-data",
+    "src": "src/data/pools.ts",
+    "isDynamicEntry": true
+  },
+  "src/games/BlindTest.tsx": {
+    "file": "assets/blindtest-data-CRcagmjh.js",
+    "name": "blindtest-data",
+    "src": "src/games/BlindTest.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-react-QXrNKzY_.js",
+      "_app-main-DYH-fnor.js",
+      "_games-data-Nkav3eHL.js",
+      "_vendor-DJ1mgiBU.js",
+      "_i18n-BWRwV3v0.js"
+    ]
+  },
+  "src/games/TerrainDeJeu.tsx": {
+    "file": "assets/venue-game-ukTgtMG5.js",
+    "name": "venue-game",
+    "src": "src/games/TerrainDeJeu.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-react-QXrNKzY_.js",
+      "src/data/pools.ts",
+      "_app-main-DYH-fnor.js",
+      "_games-data-Nkav3eHL.js",
+      "_i18n-BWRwV3v0.js",
+      "_vendor-DJ1mgiBU.js"
+    ]
+  }
+}
