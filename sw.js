@@ -1,7 +1,7 @@
 /** A version is installable only after its essential shell is safely cached. */
 const CACHE_PREFIX = 'onlydrunk-';
-const CACHE_VERSION = 'onlydrunk-mvik2dwb';
-const BUILD_ASSETS = ["./assets/game-catalog-DzxdyUOi.js","./assets/index-DQS2JUfH.js","./assets/index-VHY6d5W6.css","./assets/taboo-data-R3It4JOS.js","./assets/vendor-react-SGLyOfVL.js","./beer-spinner.js","./index.html","./logo-192.png","./logo-512.png","./logo-mark.png","./logo-maskable-192.png","./logo-maskable-512.png","./logo.png","./manifest.webmanifest"];
+const CACHE_VERSION = 'onlydrunk-mvil9w4o';
+const BUILD_ASSETS = ["./assets/game-catalog-DzxdyUOi.js","./assets/index-BPalUUCs.js","./assets/index-VHY6d5W6.css","./assets/taboo-data-R3It4JOS.js","./assets/vendor-react-SGLyOfVL.js","./beer-spinner.js","./index.html","./logo-192.png","./logo-512.png","./logo-mark.png","./logo-maskable-192.png","./logo-maskable-512.png","./logo.png","./manifest.webmanifest"];
 const APP_SHELL = Array.from(new Set(['./', './index.html', './manifest.webmanifest', ...BUILD_ASSETS]));
 
 self.addEventListener('install', (event) => {
