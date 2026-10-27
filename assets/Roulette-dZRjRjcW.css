@@ -1,0 +1,1 @@
+.roulette-wheel:after{content:"";position:absolute;inset:3%;border:1px solid #e2ba8b40;border-radius:50%;pointer-events:none;z-index:2;box-shadow:inset 0 0 13px #1c100b66}@media(max-height:640px)and (max-width:600px){.roulette-game{padding-top:4px!important;gap:10px!important}.roulette-game .roulette-wheel{max-width:228px!important}}
