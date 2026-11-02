@@ -1,6 +1,6 @@
 {
   "../repository/node_modules/@capacitor/app-launcher/dist/esm/index.js": {
-    "file": "assets/index-DcZZvFo1.js",
+    "file": "assets/index-ChI9h8h4.js",
     "name": "index",
     "src": "../repository/node_modules/@capacitor/app-launcher/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -16,7 +16,7 @@
     ]
   },
   "../repository/node_modules/@capacitor/app-launcher/dist/esm/web.js": {
-    "file": "assets/web-CNCqI3ID.js",
+    "file": "assets/web-DFqUgKGR.js",
     "name": "web",
     "src": "../repository/node_modules/@capacitor/app-launcher/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -29,7 +29,7 @@
     ]
   },
   "../repository/node_modules/@capacitor/app/dist/esm/web.js": {
-    "file": "assets/web-dhyTBNoB.js",
+    "file": "assets/web-HC3xIM8U.js",
     "name": "web",
     "src": "../repository/node_modules/@capacitor/app/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -42,7 +42,7 @@
     ]
   },
   "../repository/node_modules/@capacitor/filesystem/dist/esm/index.js": {
-    "file": "assets/index-CJIPuccs.js",
+    "file": "assets/index-CaeXXXXj.js",
     "name": "index",
     "src": "../repository/node_modules/@capacitor/filesystem/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@
     ]
   },
   "../repository/node_modules/@capacitor/filesystem/dist/esm/web.js": {
-    "file": "assets/web-BnIYBS5-.js",
+    "file": "assets/web-BeF3i845.js",
     "name": "web",
     "src": "../repository/node_modules/@capacitor/filesystem/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -72,7 +72,7 @@
     ]
   },
   "../repository/node_modules/@capacitor/share/dist/esm/index.js": {
-    "file": "assets/index-BfaPRQvD.js",
+    "file": "assets/index-DZ5tq1VI.js",
     "name": "index",
     "src": "../repository/node_modules/@capacitor/share/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -88,7 +88,7 @@
     ]
   },
   "../repository/node_modules/@capacitor/share/dist/esm/web.js": {
-    "file": "assets/web-C2l_LaeW.js",
+    "file": "assets/web-BqC2Zivw.js",
     "name": "web",
     "src": "../repository/node_modules/@capacitor/share/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -104,16 +104,16 @@
     "file": "assets/ActiveGame-BpgNCQE8.css",
     "src": "_ActiveGame-BpgNCQE8.css"
   },
-  "_ActiveGame-DB5PtW-r.js": {
-    "file": "assets/ActiveGame-DB5PtW-r.js",
+  "_ActiveGame-DNU-vbEc.js": {
+    "file": "assets/ActiveGame-DNU-vbEc.js",
     "name": "ActiveGame",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_vendor-react-SGLyOfVL.js",
-      "_bonnes-raisons-data-BJXI-KOg.js",
+      "_bonnes-raisons-data-C_iVwZQ5.js",
       "_game-catalog-ClTZd_cW.js",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "_taboo-data-D7y747UP.js"
     ],
     "dynamicImports": [
@@ -123,9 +123,9 @@
       "src/games/KaraokeGame.tsx",
       "src/games/LePrompteur.tsx",
       "src/games/TerrainDeJeu.tsx",
-      "_QuiVeutGagner-ChqYllNv.js",
+      "_QuiVeutGagner--F7EauRc.js",
       "src/games/QuiVeutGagnerHub.tsx",
-      "_WhisperChallenge-CFJRVpdg.js",
+      "_WhisperChallenge-DBmvVDGC.js",
       "src/games/ReflexDuel.tsx",
       "src/games/CasqueHub.tsx",
       "src/games/Roulette.tsx",
@@ -137,8 +137,8 @@
       "assets/ActiveGame-BpgNCQE8.css"
     ]
   },
-  "_DebugMenu-DuMdnrl9.js": {
-    "file": "assets/DebugMenu-DuMdnrl9.js",
+  "_DebugMenu-CxvZYl5o.js": {
+    "file": "assets/DebugMenu-CxvZYl5o.js",
     "name": "DebugMenu",
     "isDynamicEntry": true,
     "imports": [
@@ -146,20 +146,20 @@
       "_game-catalog-ClTZd_cW.js",
       "index.html",
       "src/debug/debug-state.ts",
-      "_contentRegistry-Bg81QyPN.js",
+      "_contentRegistry-bRBTbYKE.js",
       "src/data/pools.ts",
       "_workshop-state-DJjjxXwi.js"
     ]
   },
-  "_PhotoChallenge-DXC8wy5V.js": {
-    "file": "assets/PhotoChallenge-DXC8wy5V.js",
+  "_PhotoChallenge-DXPN78l2.js": {
+    "file": "assets/PhotoChallenge-DXPN78l2.js",
     "name": "PhotoChallenge",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
       "index.html",
       "_game-catalog-ClTZd_cW.js",
-      "_photo-CoV0Pz88.js"
+      "_photo-D091wzAd.js"
     ],
     "css": [
       "assets/PhotoChallenge-QYjFTaPb.css"
@@ -169,33 +169,33 @@
     "file": "assets/PhotoChallenge-QYjFTaPb.css",
     "src": "_PhotoChallenge-QYjFTaPb.css"
   },
-  "_QuiVeutGagner-ChqYllNv.js": {
-    "file": "assets/QuiVeutGagner-ChqYllNv.js",
+  "_QuiVeutGagner--F7EauRc.js": {
+    "file": "assets/QuiVeutGagner--F7EauRc.js",
     "name": "QuiVeutGagner",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
       "index.html",
       "_taboo-data-D7y747UP.js",
-      "_PhotoChallenge-DXC8wy5V.js",
-      "_ActiveGame-DB5PtW-r.js",
+      "_PhotoChallenge-DXPN78l2.js",
+      "_ActiveGame-DNU-vbEc.js",
       "_dedicatedQuizSnapshots-4G2mjcpe.js",
       "_game-catalog-ClTZd_cW.js"
     ]
   },
-  "_WhisperChallenge-CFJRVpdg.js": {
-    "file": "assets/WhisperChallenge-CFJRVpdg.js",
+  "_WhisperChallenge-DBmvVDGC.js": {
+    "file": "assets/WhisperChallenge-DBmvVDGC.js",
     "name": "WhisperChallenge",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
       "index.html",
       "_taboo-data-D7y747UP.js",
-      "_ActiveGame-DB5PtW-r.js",
+      "_ActiveGame-DNU-vbEc.js",
       "../repository/node_modules/@capacitor/app-launcher/dist/esm/index.js",
       "_dedicatedQuizSnapshots-4G2mjcpe.js",
       "_game-catalog-ClTZd_cW.js",
-      "_PhotoChallenge-DXC8wy5V.js"
+      "_PhotoChallenge-DXPN78l2.js"
     ],
     "css": [
       "assets/performance-menus-CB2G-BNB.css"
@@ -205,15 +205,19 @@
     "file": "assets/blindtest-data-aXPEQtnN.js",
     "name": "blindtest-data"
   },
-  "_bonnes-raisons-data-BJXI-KOg.js": {
-    "file": "assets/bonnes-raisons-data-BJXI-KOg.js",
+  "_bonnes-raisons-data-C_iVwZQ5.js": {
+    "file": "assets/bonnes-raisons-data-C_iVwZQ5.js",
     "name": "bonnes-raisons-data",
     "imports": [
       "_game-catalog-ClTZd_cW.js"
     ]
   },
-  "_contentRegistry-Bg81QyPN.js": {
-    "file": "assets/contentRegistry-Bg81QyPN.js",
+  "_contentRegistry-CjL038sN.css": {
+    "file": "assets/contentRegistry-CjL038sN.css",
+    "src": "_contentRegistry-CjL038sN.css"
+  },
+  "_contentRegistry-bRBTbYKE.js": {
+    "file": "assets/contentRegistry-bRBTbYKE.js",
     "name": "contentRegistry",
     "imports": [
       "src/data/pools.ts",
@@ -223,15 +227,11 @@
       "_game-catalog-ClTZd_cW.js",
       "_index-CuplCQHv.js",
       "_rouletteGages-BelDYQXL.js",
-      "_bonnes-raisons-data-BJXI-KOg.js"
+      "_bonnes-raisons-data-C_iVwZQ5.js"
     ],
     "css": [
       "assets/contentRegistry-CjL038sN.css"
     ]
-  },
-  "_contentRegistry-CjL038sN.css": {
-    "file": "assets/contentRegistry-CjL038sN.css",
-    "src": "_contentRegistry-CjL038sN.css"
   },
   "_dedicatedQuizSnapshots-4G2mjcpe.js": {
     "file": "assets/dedicatedQuizSnapshots-4G2mjcpe.js",
@@ -266,8 +266,8 @@
     "file": "assets/openExternal-BEf02Bzz.css",
     "src": "_openExternal-BEf02Bzz.css"
   },
-  "_openExternal-DDKeI6AU.js": {
-    "file": "assets/openExternal-DDKeI6AU.js",
+  "_openExternal-F9u3pe-3.js": {
+    "file": "assets/openExternal-F9u3pe-3.js",
     "name": "openExternal",
     "imports": [
       "index.html"
@@ -283,8 +283,8 @@
     "file": "assets/performance-menus-CB2G-BNB.css",
     "src": "_performance-menus-CB2G-BNB.css"
   },
-  "_photo-CoV0Pz88.js": {
-    "file": "assets/photo-CoV0Pz88.js",
+  "_photo-D091wzAd.js": {
+    "file": "assets/photo-D091wzAd.js",
     "name": "photo",
     "imports": [
       "index.html"
@@ -342,8 +342,8 @@
       "_game-catalog-ClTZd_cW.js"
     ]
   },
-  "_shared-CmJ-2UWk.js": {
-    "file": "assets/shared-CmJ-2UWk.js",
+  "_shared-Bt_gp4g7.js": {
+    "file": "assets/shared-Bt_gp4g7.js",
     "name": "shared",
     "imports": [
       "_vendor-react-SGLyOfVL.js",
@@ -363,7 +363,7 @@
     "name": "workshop-state"
   },
   "index.html": {
-    "file": "assets/index-DiHIe_Tq.js",
+    "file": "assets/index-C9wkoxS-.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -377,14 +377,14 @@
       "../repository/node_modules/@capacitor/app/dist/esm/web.js",
       "src/games/SpyHub.tsx",
       "src/components/PhotoGallery.tsx",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "src/components/AndroidUpdates.tsx",
       "src/data/pools.ts",
-      "_DebugMenu-DuMdnrl9.js",
+      "_DebugMenu-CxvZYl5o.js",
       "src/debug/DebugInGameFAB.tsx",
       "src/pages/RichSessionRecap.tsx",
       "src/pages/SessionInfoPanel.tsx",
-      "_ActiveGame-DB5PtW-r.js",
+      "_ActiveGame-DNU-vbEc.js",
       "src/debug/debug-state.ts",
       "src/debug/debug-state.ts"
     ],
@@ -393,7 +393,7 @@
     ]
   },
   "src/components/AndroidUpdates.tsx": {
-    "file": "assets/AndroidUpdates-DgAHHWbD.js",
+    "file": "assets/AndroidUpdates-C4-lMWrX.js",
     "name": "AndroidUpdates",
     "src": "src/components/AndroidUpdates.tsx",
     "isDynamicEntry": true,
@@ -406,13 +406,13 @@
     ]
   },
   "src/components/PhotoGallery.tsx": {
-    "file": "assets/PhotoGallery-GqoLitGG.js",
+    "file": "assets/PhotoGallery-DmMC8hD8.js",
     "name": "PhotoGallery",
     "src": "src/components/PhotoGallery.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
-      "_photo-CoV0Pz88.js",
+      "_photo-D091wzAd.js",
       "index.html",
       "_workshop-state-DJjjxXwi.js",
       "_game-catalog-ClTZd_cW.js",
@@ -420,20 +420,20 @@
     ]
   },
   "src/components/movement/MovementGuide.tsx": {
-    "file": "assets/MovementGuide-ySgG9lK6.js",
+    "file": "assets/MovementGuide-BMgh84_-.js",
     "name": "MovementGuide",
     "src": "src/components/movement/MovementGuide.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
       "_game-catalog-ClTZd_cW.js",
-      "_ActiveGame-DB5PtW-r.js",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_ActiveGame-DNU-vbEc.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "index.html",
       "_workshop-state-DJjjxXwi.js",
       "_taboo-data-D7y747UP.js",
-      "_bonnes-raisons-data-BJXI-KOg.js",
-      "_photo-CoV0Pz88.js"
+      "_bonnes-raisons-data-C_iVwZQ5.js",
+      "_photo-D091wzAd.js"
     ],
     "css": [
       "assets/MovementGuide-CxXftC8D.css"
@@ -458,19 +458,19 @@
     ]
   },
   "src/debug/DebugInGameFAB.tsx": {
-    "file": "assets/DebugInGameFAB-Ds7iGWxg.js",
+    "file": "assets/DebugInGameFAB-Q5Pgblev.js",
     "name": "DebugInGameFAB",
     "src": "src/debug/DebugInGameFAB.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
-      "_DebugMenu-DuMdnrl9.js",
+      "_DebugMenu-CxvZYl5o.js",
       "_game-catalog-ClTZd_cW.js",
       "index.html",
       "_workshop-state-DJjjxXwi.js",
       "_taboo-data-D7y747UP.js",
       "src/debug/debug-state.ts",
-      "_contentRegistry-Bg81QyPN.js",
+      "_contentRegistry-bRBTbYKE.js",
       "src/data/pools.ts",
       "_pools-normal-CBSztQEo.js",
       "_pools-hard-CdtlXkQ9.js",
@@ -482,17 +482,17 @@
       "_index-CpWmM8bq.js",
       "_index-CuplCQHv.js",
       "_rouletteGages-BelDYQXL.js",
-      "_bonnes-raisons-data-BJXI-KOg.js"
+      "_bonnes-raisons-data-C_iVwZQ5.js"
     ]
   },
   "src/debug/LiveTestBar.tsx": {
-    "file": "assets/LiveTestBar-BFwromFQ.js",
+    "file": "assets/LiveTestBar-DbpQrOi4.js",
     "name": "LiveTestBar",
     "src": "src/debug/LiveTestBar.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
-      "_contentRegistry-Bg81QyPN.js",
+      "_contentRegistry-bRBTbYKE.js",
       "_game-catalog-ClTZd_cW.js",
       "index.html",
       "src/data/pools.ts",
@@ -500,7 +500,7 @@
       "_index-CpWmM8bq.js",
       "_index-CuplCQHv.js",
       "_rouletteGages-BelDYQXL.js",
-      "_bonnes-raisons-data-BJXI-KOg.js",
+      "_bonnes-raisons-data-C_iVwZQ5.js",
       "_taboo-data-D7y747UP.js",
       "_pools-normal-CBSztQEo.js",
       "_pools-hard-CdtlXkQ9.js",
@@ -524,7 +524,7 @@
     ]
   },
   "src/games/BlindTest.tsx": {
-    "file": "assets/BlindTest-BHovTHtk.js",
+    "file": "assets/BlindTest-BIgyoiL3.js",
     "name": "BlindTest",
     "src": "src/games/BlindTest.tsx",
     "isDynamicEntry": true,
@@ -541,7 +541,7 @@
     ]
   },
   "src/games/CasqueHub.tsx": {
-    "file": "assets/CasqueHub-D4Cq7K60.js",
+    "file": "assets/CasqueHub-DSVej8h_.js",
     "name": "CasqueHub",
     "src": "src/games/CasqueHub.tsx",
     "isDynamicEntry": true,
@@ -549,57 +549,57 @@
       "_vendor-react-SGLyOfVL.js",
       "index.html",
       "_taboo-data-D7y747UP.js",
-      "_WhisperChallenge-CFJRVpdg.js",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_WhisperChallenge-DBmvVDGC.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "_dedicatedQuizSnapshots-4G2mjcpe.js",
       "_game-catalog-ClTZd_cW.js",
       "_workshop-state-DJjjxXwi.js",
-      "_ActiveGame-DB5PtW-r.js",
-      "_bonnes-raisons-data-BJXI-KOg.js",
+      "_ActiveGame-DNU-vbEc.js",
+      "_bonnes-raisons-data-C_iVwZQ5.js",
       "../repository/node_modules/@capacitor/app-launcher/dist/esm/index.js",
-      "_photo-CoV0Pz88.js"
+      "_photo-D091wzAd.js"
     ],
     "css": [
       "assets/performance-menus-CB2G-BNB.css"
     ]
   },
   "src/games/KaraokeGame.tsx": {
-    "file": "assets/KaraokeGame-D2iTkutO.js",
+    "file": "assets/KaraokeGame-DJK1LGJW.js",
     "name": "KaraokeGame",
     "src": "src/games/KaraokeGame.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
-      "_openExternal-DDKeI6AU.js",
+      "_openExternal-F9u3pe-3.js",
       "index.html",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "_game-catalog-ClTZd_cW.js",
-      "_ActiveGame-DB5PtW-r.js",
+      "_ActiveGame-DNU-vbEc.js",
       "_index-CuplCQHv.js",
-      "_shared-CmJ-2UWk.js",
+      "_shared-Bt_gp4g7.js",
       "_workshop-state-DJjjxXwi.js",
       "_taboo-data-D7y747UP.js",
-      "_photo-CoV0Pz88.js",
-      "_bonnes-raisons-data-BJXI-KOg.js"
+      "_photo-D091wzAd.js",
+      "_bonnes-raisons-data-C_iVwZQ5.js"
     ],
     "css": [
       "assets/performance-menus-CB2G-BNB.css"
     ]
   },
   "src/games/LePrompteur.tsx": {
-    "file": "assets/LePrompteur-7PioRuxU.js",
+    "file": "assets/LePrompteur-Bcx-z2HD.js",
     "name": "LePrompteur",
     "src": "src/games/LePrompteur.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "index.html",
-      "_shared-CmJ-2UWk.js",
+      "_shared-Bt_gp4g7.js",
       "_index-CpWmM8bq.js",
       "_engine-ClgNouek.js",
       "_game-catalog-ClTZd_cW.js",
-      "_photo-CoV0Pz88.js",
+      "_photo-D091wzAd.js",
       "_workshop-state-DJjjxXwi.js",
       "_taboo-data-D7y747UP.js"
     ],
@@ -608,7 +608,7 @@
     ]
   },
   "src/games/MarcheNoir.tsx": {
-    "file": "assets/MarcheNoir-BRM9XTaC.js",
+    "file": "assets/MarcheNoir-BtO0cpRt.js",
     "name": "MarcheNoir",
     "src": "src/games/MarcheNoir.tsx",
     "isDynamicEntry": true,
@@ -621,7 +621,7 @@
     ]
   },
   "src/games/QuiVeutGagnerHub.tsx": {
-    "file": "assets/QuiVeutGagnerHub-CgE4huBo.js",
+    "file": "assets/QuiVeutGagnerHub-Bd_x0-L0.js",
     "name": "QuiVeutGagnerHub",
     "src": "src/games/QuiVeutGagnerHub.tsx",
     "isDynamicEntry": true,
@@ -629,27 +629,27 @@
       "_vendor-react-SGLyOfVL.js",
       "index.html",
       "_taboo-data-D7y747UP.js",
-      "_QuiVeutGagner-ChqYllNv.js",
-      "_PhotoChallenge-DXC8wy5V.js",
-      "_ActiveGame-DB5PtW-r.js",
+      "_QuiVeutGagner--F7EauRc.js",
+      "_PhotoChallenge-DXPN78l2.js",
+      "_ActiveGame-DNU-vbEc.js",
       "_dedicatedQuizSnapshots-4G2mjcpe.js",
       "_game-catalog-ClTZd_cW.js",
       "_workshop-state-DJjjxXwi.js",
-      "_photo-CoV0Pz88.js",
-      "_bonnes-raisons-data-BJXI-KOg.js"
+      "_photo-D091wzAd.js",
+      "_bonnes-raisons-data-C_iVwZQ5.js"
     ]
   },
   "src/games/ReflexDuel.tsx": {
-    "file": "assets/ReflexDuel-BX3RDUTv.js",
+    "file": "assets/ReflexDuel-3PnEM-W4.js",
     "name": "ReflexDuel",
     "src": "src/games/ReflexDuel.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "index.html",
       "_game-catalog-ClTZd_cW.js",
-      "_photo-CoV0Pz88.js",
+      "_photo-D091wzAd.js",
       "_workshop-state-DJjjxXwi.js",
       "_taboo-data-D7y747UP.js"
     ],
@@ -658,48 +658,48 @@
     ]
   },
   "src/games/RougeOuNoir.tsx": {
-    "file": "assets/RougeOuNoir-Dve_KwFJ.js",
+    "file": "assets/RougeOuNoir-BiVWsUUT.js",
     "name": "RougeOuNoir",
     "src": "src/games/RougeOuNoir.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
       "index.html",
-      "_ActiveGame-DB5PtW-r.js",
+      "_ActiveGame-DNU-vbEc.js",
       "_workshop-state-DJjjxXwi.js",
       "_game-catalog-ClTZd_cW.js",
       "_taboo-data-D7y747UP.js",
-      "_bonnes-raisons-data-BJXI-KOg.js",
-      "_PhotoChallenge-DXC8wy5V.js",
-      "_photo-CoV0Pz88.js"
+      "_bonnes-raisons-data-C_iVwZQ5.js",
+      "_PhotoChallenge-DXPN78l2.js",
+      "_photo-D091wzAd.js"
     ],
     "css": [
       "assets/RougeOuNoir-DK8w8dSm.css"
     ]
   },
   "src/games/Roulette.tsx": {
-    "file": "assets/Roulette-BZbmvF9I.js",
+    "file": "assets/Roulette-DukEcG-_.js",
     "name": "Roulette",
     "src": "src/games/Roulette.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
       "index.html",
-      "_ActiveGame-DB5PtW-r.js",
+      "_ActiveGame-DNU-vbEc.js",
       "_rouletteGages-BelDYQXL.js",
       "_workshop-state-DJjjxXwi.js",
       "_game-catalog-ClTZd_cW.js",
       "_taboo-data-D7y747UP.js",
-      "_bonnes-raisons-data-BJXI-KOg.js",
-      "_PhotoChallenge-DXC8wy5V.js",
-      "_photo-CoV0Pz88.js"
+      "_bonnes-raisons-data-C_iVwZQ5.js",
+      "_PhotoChallenge-DXPN78l2.js",
+      "_photo-D091wzAd.js"
     ],
     "css": [
       "assets/Roulette-Bef6gVC6.css"
     ]
   },
   "src/games/SpyHub.tsx": {
-    "file": "assets/SpyHub-zKWoQA0i.js",
+    "file": "assets/SpyHub-BHyG_DeO.js",
     "name": "SpyHub",
     "src": "src/games/SpyHub.tsx",
     "isDynamicEntry": true,
@@ -712,7 +712,7 @@
     ]
   },
   "src/games/TerrainDeJeu.tsx": {
-    "file": "assets/TerrainDeJeu-Bbwew4CR.js",
+    "file": "assets/TerrainDeJeu-Beust7cw.js",
     "name": "TerrainDeJeu",
     "src": "src/games/TerrainDeJeu.tsx",
     "isDynamicEntry": true,
@@ -720,7 +720,7 @@
       "_vendor-react-SGLyOfVL.js",
       "src/data/pools.ts",
       "index.html",
-      "_ActiveGame-DB5PtW-r.js",
+      "_ActiveGame-DNU-vbEc.js",
       "_game-catalog-ClTZd_cW.js",
       "_workshop-state-DJjjxXwi.js",
       "_pools-normal-CBSztQEo.js",
@@ -731,39 +731,39 @@
       "_pools-quiz-classic-CyqOvh8e.js",
       "_pools-quiz-themes-wh-s5Vcj.js",
       "_taboo-data-D7y747UP.js",
-      "_bonnes-raisons-data-BJXI-KOg.js",
-      "_PhotoChallenge-DXC8wy5V.js",
-      "_photo-CoV0Pz88.js"
+      "_bonnes-raisons-data-C_iVwZQ5.js",
+      "_PhotoChallenge-DXPN78l2.js",
+      "_photo-D091wzAd.js"
     ],
     "css": [
       "assets/TerrainDeJeu-BfBp5TYW.css"
     ]
   },
   "src/games/VideoPerf.tsx": {
-    "file": "assets/VideoPerf-DzFfmiF3.js",
+    "file": "assets/VideoPerf-BhvCL6Tm.js",
     "name": "VideoPerf",
     "src": "src/games/VideoPerf.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-react-SGLyOfVL.js",
-      "_openExternal-DDKeI6AU.js",
-      "_PhotoChallenge-DXC8wy5V.js",
+      "_openExternal-F9u3pe-3.js",
+      "_PhotoChallenge-DXPN78l2.js",
       "index.html",
       "_game-catalog-ClTZd_cW.js",
-      "_ActiveGame-DB5PtW-r.js",
+      "_ActiveGame-DNU-vbEc.js",
       "_engine-ClgNouek.js",
       "_taboo-data-D7y747UP.js",
-      "_shared-CmJ-2UWk.js",
-      "_photo-CoV0Pz88.js",
+      "_shared-Bt_gp4g7.js",
+      "_photo-D091wzAd.js",
       "_workshop-state-DJjjxXwi.js",
-      "_bonnes-raisons-data-BJXI-KOg.js"
+      "_bonnes-raisons-data-C_iVwZQ5.js"
     ],
     "css": [
       "assets/performance-menus-CB2G-BNB.css"
     ]
   },
   "src/pages/RichSessionRecap.tsx": {
-    "file": "assets/RichSessionRecap-C_D8gFB-.js",
+    "file": "assets/RichSessionRecap-Dt7DN_cG.js",
     "name": "RichSessionRecap",
     "src": "src/pages/RichSessionRecap.tsx",
     "isDynamicEntry": true,
@@ -776,7 +776,7 @@
     ]
   },
   "src/pages/SessionInfoPanel.tsx": {
-    "file": "assets/SessionInfoPanel-BqnMAWA_.js",
+    "file": "assets/SessionInfoPanel-CxbU8BpV.js",
     "name": "SessionInfoPanel",
     "src": "src/pages/SessionInfoPanel.tsx",
     "isDynamicEntry": true,
